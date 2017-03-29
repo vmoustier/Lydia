@@ -1,0 +1,14 @@
+//API URL /api/request/do
+
+
+
+{
+    "message": "Hello World !",
+    "amount": "12.2",
+    "currency": "EUR",
+    "type": "phone",
+    "recipient": "+33600000001",
+    "vendor_token": "5565dde9e9db8005209202",
+    "provider_token": "556728ae65bd6264713182",
+    "delayed_payment": "1"
+}
